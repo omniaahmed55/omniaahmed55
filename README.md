@@ -6,7 +6,7 @@
 <p align="center">
 Welcome to my GitHub profile! <br/>
 I'm <b>Omnia Ahmed</b>, a passionate <b>Machine Learning Engineer</b> and <b>Computer Vision Engineer</b> from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197611.png" width="13"/> <b>Egypt</b>.
+<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>.
 </p>
 
 ---
@@ -18,6 +18,7 @@ I'm <b>Omnia Ahmed</b>, a passionate <b>Machine Learning Engineer</b> and <b>Com
 📊 Completed a <b>Data Engineering Internship</b> at <b>Atos</b>  
 📈 Worked as a <b>Data Analysis Engineer</b> at <b>High Solve Company</b>  
 👁️ Currently studying <b>Computer Vision</b> at <b>NTI</b>  
+
 💡 Interested in:
 - Machine Learning
 - Deep Learning
