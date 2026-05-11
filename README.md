@@ -5,8 +5,7 @@
 
 <p align="center">
 Welcome to my GitHub profile! <br/>
-I'm <b>Omnia Ahmed</b>, a passionate <b>Machine Learning Engineer</b> and <b>Computer Vision Engineer</b> from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>.
+I'm <b>Omnia Ahmed</b>, a passionate <b>Machine Learning Engineer</b> and <b>Computer Vision Engineer</b> from <b>Egypt</b>.
 </p>
 
 ---
