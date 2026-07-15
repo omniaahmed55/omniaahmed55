@@ -16,7 +16,7 @@ I'm <b>Omnia Ahmed</b>, a passionate <b>Machine Learning Engineer</b> and <b>Com
 🤖 Machine Learning Engineer passionate about AI and Deep Learning  
 📊 Completed a <b>Data Engineering Internship</b> at <b>Atos</b>  
 📈 Worked as a <b>Data Analysis Engineer</b> at <b>High Solve Company</b>  
-👁️ Currently studying <b>Computer Vision</b> at <b>NTI</b>  
+👁️ Completed a <b>Computer Vision Internship </b> at <b>NTI</b>  
 
 💡 Interested in:
 - Machine Learning
